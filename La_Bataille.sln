@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "La_Bataille_Console", "La_Bataille_Console\La_Bataille_Console.csproj", "{5870F539-DB91-4376-A9AF-DB53ED075BFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "La_Bataille_UnitTest", "La_Bataille_UnitTest\La_Bataille_UnitTest.csproj", "{D7152ADC-E9F0-4F40-9496-797C0B5E1422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5870F539-DB91-4376-A9AF-DB53ED075BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5870F539-DB91-4376-A9AF-DB53ED075BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5870F539-DB91-4376-A9AF-DB53ED075BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5870F539-DB91-4376-A9AF-DB53ED075BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7152ADC-E9F0-4F40-9496-797C0B5E1422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7152ADC-E9F0-4F40-9496-797C0B5E1422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7152ADC-E9F0-4F40-9496-797C0B5E1422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7152ADC-E9F0-4F40-9496-797C0B5E1422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525B70C3-0890-4D45-9F33-0BE885443463}
+	EndGlobalSection
+EndGlobal
